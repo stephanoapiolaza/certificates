@@ -1,6 +1,3 @@
-
-<p align="center"><img src="logo.png" /></p>
-
 <h1 align="center">Repository´s Certificates and professional summary</h1>
 
 <p align="center">About me</p>
@@ -8,23 +5,6 @@
 <hr/>
 
 <p>Computer Science Engineer with many kind of technologies stack, I approach in different areas´s lifecycle software, Also I have a complete focus on the kpi, okr or any kind of goal to a success project.</p>
-
-<h3> List of Resources </h3>
-
-<ul>
-  <li>Beautiful Starter Template for README.md</li>
-  <li>Key feature num. 2</li>
-  <li>Key feature num. 3</li>
-  <li>Key feature num. 4</li>
-</ul>
-
-<h3> Demo -> Show me what you got </h3>
-
-<a href="#"> Link to your awesome Demo </a>
-
-<a href="#"> Another Link to your awesome Demo </a>
-
-<a href="https://www.designinspiration.info/"> Design Fonts Inspiration </a>
 
 <h3> Why must you choose me? </h3>
 
